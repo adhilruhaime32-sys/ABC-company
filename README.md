@@ -1,4 +1,4 @@
-# README: ABC Company Employee Dataset Analysis
+# ABC Company Employee Dataset Analysis
 
 This report provides a comprehensive analysis of the ABC Company employee dataset, covering preprocessing, distribution analysis, salary expenditure insights, and age-salary correlation.
 
